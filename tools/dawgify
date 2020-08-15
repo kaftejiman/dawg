@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+
+"""Tool for converting Python code to Dawg code
+
+Usage: 
+    dawgify <filename>...
+"""
+
+from docopt import docopt
+
+def getargs():
+  return docopt(__doc__)
+
+# todo:
+# parse python code
+# convert to dawg
+
+def main():
+  args = getargs()
+  print(args)
+
+if __name__ == "__main__":
+  main()
