@@ -172,8 +172,8 @@ DOUBLEG = 6
 DOUBLEG \*= DOUBLEG
 DOUBLEH = 2
 DOUBLEH -= DOUBLEH
-assert DOUBLEG `= 36
-assert DOUBLEH =` 0
+assert DOUBLEG == 36
+assert DOUBLEH == 0
 ```
 
 **Iterations:**
@@ -223,7 +223,7 @@ $ ./dawg examples/fib.dawg --argument 1000
 987
 ```
 
-**Math operations (examples/meth.dawg):
+**Math operations (examples/meth.dawg):**
 
 ```
 $ ./dawg examples/meth.dawg
