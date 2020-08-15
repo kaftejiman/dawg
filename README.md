@@ -11,7 +11,7 @@ For thugs that like to code.
 <li><a href="#sec-2">2. Using Dawg</a>
 <ul>
 <li><a href="#sec-2-1">2.1. Run Dawg program</a></li>
-<li><a href="#sec-2-2">2.2. Run or Convert Dawg program with Debug mode</a></li>
+<li><a href="#sec-2-2">2.2. Run or convert Dawg program with Debug mode</a></li>
 <li><a href="#sec-2-3">2.3. Convert Dawg program to Python equivalent</a></li>
 <li><a href="#sec-2-4">2.4. Convert multiple Dawg programs to Python equivalent</a></li>
 </ul>
