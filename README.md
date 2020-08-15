@@ -1,4 +1,6 @@
 # Dawg: Python for thugs[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+![coolDawg](https://github.com/kaftejiman/dawg/blob/master/dawg.png?raw=true)
+
 For thugs that like to code.
 
 <div id="table-of-contents">
