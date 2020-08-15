@@ -1,4 +1,4 @@
-Dawg: Python for thugs<br>
+# Dawg: Python for thugs[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 For thugs that like to code.
 
 <div id="table-of-contents">
@@ -111,7 +111,7 @@ the resulting Python code will be available in converted folder.
 Most of Python is supported by Dawg but not everything, it should be enough to get your feet wet bro, check Grammar and Implementation sections fo mo details.
 Most of da syntax is spelling mistake proof to a certain degree, for instance character repetition is supported.
 
--   Variable assignment:
+**Variable assignment:**
 
 ```FINGERS BEE LIIKE TEN```
 
@@ -119,7 +119,7 @@ Most of da syntax is spelling mistake proof to a certain degree, for instance ch
 
 ```FINGERS = 10```
 
--   Print message onto the screen:
+**Print message onto the screen:**
 
 ```BLING BLING THIS "SUP" YO```
 
@@ -127,7 +127,7 @@ Most of da syntax is spelling mistake proof to a certain degree, for instance ch
 
 ```print("SUP")```
 
--   Read from user:
+**Read from user:**
 
 ```TYRONE BE LIKE GIMME 'WHOS IN DA CLUB? ' YO```
 
@@ -136,7 +136,7 @@ Most of da syntax is spelling mistake proof to a certain degree, for instance ch
 ```TYRONE = input('WHOS IN DA CLUB? ')```
 
 
--   Function definition:
+**Function definition:**
 
 
 ```
@@ -153,7 +153,7 @@ def GREETINGS():
     return
 ```
 
--   Arithmetic operations:
+**Arithmetic operations:**
 
 ```
 DOUBLEG BE LIKE SIKS BRO
@@ -176,7 +176,7 @@ assert DOUBLEG `= 36
 assert DOUBLEH =` 0
 ```
 
--   Iterations:
+**Iterations:**
 
 ```
 NUMBZ BE LIKE BANCH O X LOOK ALL DIZ MOFOS X IN NUMBAHZ FITTY YOO
@@ -189,7 +189,7 @@ BLING BLING THESE NUMBZ YO
 NUMBZ = [ X for X in range(50 )]
 print ( NUMBZ )
 ```
--   Fillers:
+**Fillers:**
 
 For your entertainment, filler words that serves nothing, use them anywhere you please.
 
@@ -201,7 +201,7 @@ For your entertainment, filler words that serves nothing, use them anywhere you 
 
 # Examples<a id="sec-4" name="sec-4"></a>
 
--   Fibonacci number generator (examples/fib.dawg):
+**Fibonacci number generator (examples/fib.dawg):**
 
 ```
 $ ./dawg examples/fib.dawg --argument 1000
@@ -223,7 +223,7 @@ $ ./dawg examples/fib.dawg --argument 1000
 987
 ```
 
--   Math operations (examples/meth.dawg):
+**Math operations (examples/meth.dawg):
 
 ```
 $ ./dawg examples/meth.dawg
@@ -232,7 +232,7 @@ $ ./dawg examples/meth.dawg
 DOUBLEG LEVELD UP ATE TIMES YO 308
 ```
 
--   Python division brought from the future:
+**Python division brought from the future:**
 
 ```
 $ ./dawg examples/future.dawg
